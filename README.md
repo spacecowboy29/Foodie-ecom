@@ -1,1 +1,1 @@
-an e-commerce management system website project using c#, cs, html
+an e-commerce management system website project using c#, css, html
